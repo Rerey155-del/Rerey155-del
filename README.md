@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Bahasa dan tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,php,github,figma,tailwind,git,nodejs,python,javascript,nextjs,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,react-native,bootstrap,html,css,vscode,php,github,figma,tailwind,git,nodejs,python,javascript,nextjs,mysql" />
     <br>
 </div>
 
