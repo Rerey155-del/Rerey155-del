@@ -25,11 +25,11 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Bahasa dan tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,php,github,figma,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,php,github,figma,tailwind,git,nodejs,python,javascript,nextjs,mysql" />
+    <br>
 </div>
 
 <br/>
