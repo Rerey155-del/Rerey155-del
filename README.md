@@ -7,9 +7,6 @@
 
 <h3 align="center">Frontend Enthusiast</h3>
 
-<br/>
-
-
  
 <div align="center"> 
   <a href="mailto:reyvars155@gmail.com">
