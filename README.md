@@ -7,7 +7,7 @@
 
 <h3 align="center">Frontend Enthusiast</h3>
 
- 
+ </br>
 <div align="center"> 
   
   <a href="https://www.linkedin.com/in/reyhan-maulana-861721249" target="_blank">
