@@ -18,7 +18,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Bahasa dan tools ⚒️</h2>
-
+    <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nestjs,html,css,vue,vscode,php,github,tailwind,git,nodejs,javascript,typescript,expressjs,nextjs,mysql,laravel,mongodb,flutter,figma" />
     <br>
